@@ -2,11 +2,9 @@
 title: Are Top-Grossing Movies Getting Longer?
 ---
 
-# Are Top-Grossing Movies Getting Longer?
-
 *Runtime trends in the highest-grossing films, 2015–2025*
 
-## What we set out to find
+## What I set out to find
 
 Movies feel like they've been getting longer — big franchise films in particular seem to keep stretching past the two-and-a-half-hour mark. But is that actually true across the board, or does it just feel that way because a few very long films stand out?
 
@@ -29,6 +27,7 @@ Put another way: films in 2023 ran about 15 minutes longer, on average, than fil
 ## Finding 2 — Runtime by genre
 
 ![Runtime distribution by genre, ordered by spread](images/finding2-runtime-by-genre-box.png)
+![Runtime distribution by genre, ordered by spread](images/finding2-runtime-by-genre-box-reduced.png)
 
 Not every genre behaves the same way. **Family** and **Animation** films are the most consistent — they cluster tightly around a predictable runtime, rarely straying far from it. **Adventure** and **Thriller** films, by contrast, swing much more widely — some are short, some stretch well past two hours, with no single "typical" length.
 
@@ -37,12 +36,14 @@ Not every genre behaves the same way. **Family** and **Animation** films are the
 ## Finding 3 — Which genres change most over time
 
 ![Mean runtime by year for the four best-sampled genres](images/finding3-runtime-genre-year-trend.png)
+![Mean runtime by year for the four best-sampled genres](images/finding3-runtime-genre-year-trend-reduced.png)
+
 
 Restricting to the four genres with enough films every year to compare fairly — Action, Adventure, Comedy, and Drama — **Drama's average runtime moved around the most across the decade**, while **Comedy stayed the steadiest**, barely drifting from year to year. Action and Adventure sat in between, each moving more than Comedy but less than Drama.
 
 ## What it all means
 
-Two things stand out. First, **genre matters more than year**: knowing a film's genre tells you far more about how long it's likely to run — and how much that could vary — than knowing what year it came out. A tightly-paced Family film and a sprawling Adventure epic released in the same year can differ by well over half an hour; that gap dwarfs anything the decade-over-decade trend produced.
+Two things stand out. First, **genre matters more than year**: knowing a film's genre tells you far more about how long it's likely to run — and how much that could vary — than knowing what year it came out. A tightly-paced Family film and a Adventure epic released in the same year can differ significantly.
 
 Second, the industry-wide shift in runtime over 2015–2025 is real but modest — a matter of minutes, not a dramatic lengthening of movies as a whole. The 2020 dip and the following rebound look more like a pandemic-era disruption than the start of a longer-term drift toward longer films.
 
