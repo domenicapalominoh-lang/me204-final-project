@@ -4,7 +4,7 @@
 
 | GitHub username         | LSE ID       |
 | ----------------------- | ------------ |
-| `domenicapalominoh-lang`| `[LSE ID]`   |
+| `domenicapalominoh-lang`| `250094127`   |
 
 ## Overview
 
@@ -28,7 +28,7 @@ All data is collected by code in NB01. No static or manually downloaded files ar
 API_ACCESS_TOKEN=your_token_here
 ```
 
-This file is git-ignored and must never be committed. See `.env.example` for the variable name.
+This file is git-ignored and must never be committed.
 
 **3. Install dependencies:**
 
@@ -50,7 +50,7 @@ pip install requests python-dotenv pandas plotly
 me204-final-project/
 ├── README.md
 ├── .gitignore
-├── .env.example
+├── .env
 ├── data/
 │   ├── raw/              # per-year JSON + movie_details.json from TMDB
 │   ├── processed/        # movies.csv, genres.csv, genres_movie.csv
