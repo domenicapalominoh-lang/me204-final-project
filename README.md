@@ -60,7 +60,9 @@ me204-final-project/
 │   ├── NB02-Data-Transformation.ipynb
 │   └── NB03-Data-Analysis.ipynb
 └── docs/
-    └── index.html
+    ├── index.md          # public report (GitHub Pages homepage)
+    ├── _config.yml
+    └── images/           # charts exported from NB03 for the report
 ```
 
 ## Tidy tables (what one row means)
